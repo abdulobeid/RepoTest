@@ -4,5 +4,9 @@ Joe edited this
 
 Kashif edited this
 
+<<<<<<< HEAD
 
 joseph is cool, kashif is dumb
+=======
+Kashif is Cool, Joseph is dumb
+>>>>>>> master
